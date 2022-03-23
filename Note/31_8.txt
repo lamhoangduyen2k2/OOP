@@ -1,0 +1,16 @@
+class: là một kiểu dữ liệu trừu tượng do người dùng định ra, và nó bao gồm những thuộc tính và các phương thức 
+các thuộc tính thể hiện bản chất của đối tượng
+các phương thức thể hiện các hành động mà đối tượng đó phải thực thi
+
+object: đối tượng là thể hiện của class nó được định nghĩ bởi các phương thức và thuộc tính
+
+abstract: trừu tượng: là cấu trúc nhìn một vấn đề bên ngoài chúng ta tạo ra 1 đối tượng
+
+polymorphisme: đa hình: tạo ra những cấu trúc cũng tên tại mỗi thời điểm thực thi những nhiệm vụ khác nhau
+
+inheritance: kế thừa: những cấu trúc được định nghĩ ở lớp bên trên và được sử dụng ở những lớp bên dưới
+
+encapsulation: đóng gói: là một tiến trình che dấu những sự việc thực thi 
+
+
+Lập trình hướng đối tượng là làm việc với class

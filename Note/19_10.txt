@@ -1,0 +1,6 @@
+một lớp có thể thực thi nhiều giao diện (interface)
+một lớp chỉ đc kế thừa 1 lớp
+interface là chức năng
+abstract là bản chất
+TRIỂN KHAI interface ko gọi là kế thừa
+lớp ko cho đa kế thừa interface mới cho đa kế thừa

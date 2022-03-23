@@ -1,0 +1,25 @@
+data type:
+system defined type
+user defined type
+
+từ khóa truy cập để đảm  bảo tính đóng gói
+
+ref phải khởi tạo tham số gốc
+
+out ko cần khởi tạo tham số gốc
+
+Namespace
+
+static: toàn cục gọi thông qua tên lớp
+
+constructor: hàm khởi dựng gán cho đối tượng của 1 lớp 1 giá trị hợp lệ
+cùng tên với lớp
+không trị trả về được cài đặt là public
+sẽ có danh sách parameter
+có thể overloading: tạo ra nhiều đối tượng có nhiều đối tượng khởi tạo khác nhau
+
+static constructor: 
+chỉ chạy một lần và sẽ được gọi trước khi đoạn mã tham khảo đến lớp đó
+tự gọi ra
+không có từ khóa truy cập 
+không có tham số truyền vào

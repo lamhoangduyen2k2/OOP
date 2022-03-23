@@ -1,0 +1,8 @@
+properties: cấu trúc liên kết với các biến thành viên
+get return
+set value
+để cài đặt properties cho các biến thành viên
+
+đối tượng của 1 lớp tham chiếu đến 1 lớp khác
+
+windowform

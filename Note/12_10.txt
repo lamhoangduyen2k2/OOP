@@ -1,0 +1,11 @@
+abstract class: là một lớp cha
+chuyên cho các lớp khác kế thừa
+chứa đầy đủ thành phần của lớp
+chứa phương thức abstract
+ko dùng để tạo ra đối tượng
+ 
+khi nào sử dụng abstract class
+sử dụng trong mô hình chuyên biệt hóa
+có phương thức đặt biệt là phương thức abstract thì tất cả các lớp kế thừa đều phài triển khai
+
+abstract class là một lớp cha

@@ -1,0 +1,20 @@
+
+lớp cho các lớp khác kế thừa gọi là lớp cơ sở hay (lớp cha)
+
+lớp kế thừa lớp khác gọi là lớp dẫn xuất (hay lớp con)
+
+lớp con có khả năng tự tạo thêm phương thức hay biến riêng của nó
+
+ĐỐI TƯỢNG CỦA MỘT LỚP CON CŨNG LÀ ĐỐI TƯỢNG CỦA MỘT LỚP CHA NHƯNG KHÔNG NGƯỢC LẠI
+
+BASE: dùng dể gọi hàm hoặc phương thức của lớp cha (lớp cơ sở)(được đặt ở lớp con)
+
+VIRTAUL-OVERRIDE: virtual được đặt ở lớp CHA để báo cho trình biên dịch biết ở lớp CON được override(đặt ở lớp con) 
+
+NEW:(đặt ở lớp con) dùng để phủ định lại cấu trúc ở lớp cha
+
+các constructor không được kế thừa vì nó là đặc điểm riêng của 1 class nên không được kế thừa. 
+
+Đặt vào kế thừa khi nó có cùng bản chất với nhau
+
+
