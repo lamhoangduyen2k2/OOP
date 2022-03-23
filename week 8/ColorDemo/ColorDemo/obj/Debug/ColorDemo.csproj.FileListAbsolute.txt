@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\bin\Debug\ColorDemo.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\bin\Debug\ColorDemo.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\bin\Debug\ColorDemo.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\obj\Debug\ColorDemo.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\obj\Debug\ColorDemo.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\obj\Debug\ColorDemo.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\ColorDemo\ColorDemo\obj\Debug\ColorDemo.pdb

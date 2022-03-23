@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Duyên\Lập trình hướng đối tượng\Thi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

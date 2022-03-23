@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuaKe_Console", "ThuaKe_Console.csproj", "{A895BEE2-74FF-46CA-891F-843BE6499059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhHoc", "..\HinhHoc\HinhHoc.csproj", "{1C1C508E-DFCA-4D7E-921B-F67B2CAEDC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuaKe_Form", "..\ThuaKe_Form\ThuaKe_Form.csproj", "{B002BA53-8B58-4A95-BC6F-D347C331B573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A895BEE2-74FF-46CA-891F-843BE6499059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A895BEE2-74FF-46CA-891F-843BE6499059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A895BEE2-74FF-46CA-891F-843BE6499059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A895BEE2-74FF-46CA-891F-843BE6499059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1C508E-DFCA-4D7E-921B-F67B2CAEDC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1C508E-DFCA-4D7E-921B-F67B2CAEDC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1C508E-DFCA-4D7E-921B-F67B2CAEDC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1C508E-DFCA-4D7E-921B-F67B2CAEDC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B002BA53-8B58-4A95-BC6F-D347C331B573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B002BA53-8B58-4A95-BC6F-D347C331B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B002BA53-8B58-4A95-BC6F-D347C331B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B002BA53-8B58-4A95-BC6F-D347C331B573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5031B6AE-2785-4D07-B083-86E25A5D0C69}
+	EndGlobalSection
+EndGlobal

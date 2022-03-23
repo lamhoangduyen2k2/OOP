@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\bin\Debug\ExceptionExercise.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\bin\Debug\ExceptionExercise.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\bin\Debug\ExceptionExercise.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\obj\Debug\ExceptionExercise.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\obj\Debug\ExceptionExercise.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\obj\Debug\ExceptionExercise.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionExercise\ExceptionExercise\obj\Debug\ExceptionExercise.pdb

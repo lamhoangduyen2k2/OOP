@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\bin\Debug\EvenNumber.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\obj\Debug\EvenNumber.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\EvenNumber\EvenNumber\obj\Debug\EvenNumber.pdb

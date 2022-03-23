@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\bin\Debug\Vidu.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\bin\Debug\Vidu.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\bin\Debug\Vidu.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\obj\Debug\Vidu.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\obj\Debug\Vidu.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\obj\Debug\Vidu.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\Vidu\Vidu\obj\Debug\Vidu.pdb

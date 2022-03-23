@@ -1,0 +1,6 @@
+D:\homework oop\HinhHoc\bin\Debug\HinhHoc.dll
+D:\homework oop\HinhHoc\bin\Debug\HinhHoc.pdb
+D:\homework oop\HinhHoc\obj\Debug\HinhHoc.csprojAssemblyReference.cache
+D:\homework oop\HinhHoc\obj\Debug\HinhHoc.csproj.CoreCompileInputs.cache
+D:\homework oop\HinhHoc\obj\Debug\HinhHoc.dll
+D:\homework oop\HinhHoc\obj\Debug\HinhHoc.pdb

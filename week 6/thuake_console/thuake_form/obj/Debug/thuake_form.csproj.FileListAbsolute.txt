@@ -1,0 +1,13 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\bin\Debug\thuake_form.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\bin\Debug\thuake_form.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\bin\Debug\thuake_form.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\bin\Debug\hinhhoc.dll
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\bin\Debug\hinhhoc.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.csproj.CopyComplete
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_form\obj\Debug\thuake_form.pdb

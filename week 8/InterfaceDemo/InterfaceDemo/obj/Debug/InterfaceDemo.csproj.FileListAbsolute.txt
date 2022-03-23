@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

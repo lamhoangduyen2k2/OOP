@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\bin\Debug\ThucHanh4.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\ThucHanh4\ThucHanh4\obj\Debug\ThucHanh4.pdb

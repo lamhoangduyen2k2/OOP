@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\bin\Debug\082.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\bin\Debug\082.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\bin\Debug\082.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\obj\Debug\082.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\obj\Debug\082.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\obj\Debug\082.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\082\082\obj\Debug\082.pdb

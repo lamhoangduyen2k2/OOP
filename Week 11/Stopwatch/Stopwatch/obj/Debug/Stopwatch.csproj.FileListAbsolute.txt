@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

@@ -1,0 +1,20 @@
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.exe.config
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.exe
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.pdb
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.AssemblyReference.cache
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.Form1.resources
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.Properties.Resources.resources
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.GenerateResource.cache
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.CoreCompileInputs.cache
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.exe
+D:\LTHDT\code\day11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\bin\Debug\ChiaCho0_Form.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ChiaCho0_Form\ChiaCho0_Form\obj\Debug\ChiaCho0_Form.pdb

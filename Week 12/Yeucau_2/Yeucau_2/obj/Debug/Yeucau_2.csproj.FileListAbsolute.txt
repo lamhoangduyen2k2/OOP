@@ -1,0 +1,10 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\bin\Debug\Yeucau_2.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\bin\Debug\Yeucau_2.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\bin\Debug\Yeucau_2.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_2\Yeucau_2\obj\Debug\Yeucau_2.pdb

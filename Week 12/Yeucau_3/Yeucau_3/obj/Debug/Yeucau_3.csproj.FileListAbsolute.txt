@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\bin\Debug\Yeucau_3.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\bin\Debug\Yeucau_3.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\bin\Debug\Yeucau_3.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\obj\Debug\Yeucau_3.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\obj\Debug\Yeucau_3.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\obj\Debug\Yeucau_3.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 12\Yeucau_3\Yeucau_3\obj\Debug\Yeucau_3.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

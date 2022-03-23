@@ -1,0 +1,10 @@
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\bin\Debug\Employees.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\bin\Debug\Employees.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\bin\Debug\Employees.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employees\Employees\obj\Debug\Employees.Form1.resources

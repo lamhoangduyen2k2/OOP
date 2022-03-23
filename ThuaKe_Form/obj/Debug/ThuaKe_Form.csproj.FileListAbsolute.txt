@@ -1,0 +1,26 @@
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.csprojAssemblyReference.cache
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.Form1.resources
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.Properties.Resources.resources
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.GenerateResource.cache
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.CoreCompileInputs.cache
+D:\homework oop\ThuaKe_Form\bin\Debug\ThuaKe_Form.exe.config
+D:\homework oop\ThuaKe_Form\bin\Debug\ThuaKe_Form.exe
+D:\homework oop\ThuaKe_Form\bin\Debug\ThuaKe_Form.pdb
+D:\homework oop\ThuaKe_Form\bin\Debug\HinhHoc.dll
+D:\homework oop\ThuaKe_Form\bin\Debug\HinhHoc.pdb
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.CopyComplete
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.exe
+D:\homework oop\ThuaKe_Form\obj\Debug\ThuaKe_Form.pdb
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\bin\Debug\ThuaKe_Form.exe.config
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\bin\Debug\ThuaKe_Form.exe
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\bin\Debug\ThuaKe_Form.pdb
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\bin\Debug\HinhHoc.dll
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\bin\Debug\HinhHoc.pdb
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.csproj.CopyComplete
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.exe
+D:\Duyên\Lập trình hướng đối tượng\ThuaKe_Form\obj\Debug\ThuaKe_Form.pdb

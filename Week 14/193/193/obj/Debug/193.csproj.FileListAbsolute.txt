@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\bin\Debug\193.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\bin\Debug\193.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\bin\Debug\193.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\obj\Debug\193.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\obj\Debug\193.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\obj\Debug\193.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 14\193\193\obj\Debug\193.pdb

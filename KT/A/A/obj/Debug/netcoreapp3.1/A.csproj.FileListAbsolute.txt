@@ -1,0 +1,14 @@
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.exe
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.deps.json
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.json
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.dev.json
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.dll
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\bin\Debug\netcoreapp3.1\A.pdb
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.AssemblyInfoInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.AssemblyInfo.cs
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.dll
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.pdb
+D:\Duyên\Lập trình hướng đối tượng\KT\A\A\obj\Debug\netcoreapp3.1\A.genruntimeconfig.cache

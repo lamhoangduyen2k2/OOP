@@ -1,0 +1,20 @@
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.exe.config
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.exe
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.pdb
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.AssemblyReference.cache
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.Form1.resources
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.Properties.Resources.resources
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.GenerateResource.cache
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.CoreCompileInputs.cache
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.exe
+C:\Users\ZEPHYRUS\source\repos\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.pdb
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.exe.config
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.exe
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\bin\Debug\Linq2SQL.pdb
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.exe
+D:\Duyên\Lập trình hướng đối tượng\KtraOOPWeek13\Linq2SQL\obj\Debug\Linq2SQL.pdb

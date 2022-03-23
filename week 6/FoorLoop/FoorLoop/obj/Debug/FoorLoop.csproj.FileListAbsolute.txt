@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\bin\Debug\FoorLoop.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\bin\Debug\FoorLoop.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\bin\Debug\FoorLoop.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\obj\Debug\FoorLoop.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\obj\Debug\FoorLoop.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\obj\Debug\FoorLoop.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\FoorLoop\FoorLoop\obj\Debug\FoorLoop.pdb

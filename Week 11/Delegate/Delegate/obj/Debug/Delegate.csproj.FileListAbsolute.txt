@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Delegate\Delegate\obj\Debug\Delegate.pdb

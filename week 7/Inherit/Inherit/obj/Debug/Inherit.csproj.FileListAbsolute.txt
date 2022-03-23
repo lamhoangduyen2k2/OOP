@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\bin\Debug\Inherit.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\bin\Debug\Inherit.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\bin\Debug\Inherit.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\obj\Debug\Inherit.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\obj\Debug\Inherit.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\obj\Debug\Inherit.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Inherit\Inherit\obj\Debug\Inherit.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb

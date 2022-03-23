@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\bin\Debug\Employee.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\bin\Debug\Employee.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\bin\Debug\Employee.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\obj\Debug\Employee.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Employee\Employee\obj\Debug\Employee.pdb

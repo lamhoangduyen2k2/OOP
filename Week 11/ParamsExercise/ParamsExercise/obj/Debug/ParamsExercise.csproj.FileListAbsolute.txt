@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\obj\Debug\ParamsExercise.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\bin\Debug\ParamsExercise.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\bin\Debug\ParamsExercise.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\bin\Debug\ParamsExercise.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\obj\Debug\ParamsExercise.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\ParamsExercise\ParamsExercise\obj\Debug\ParamsExercise.pdb

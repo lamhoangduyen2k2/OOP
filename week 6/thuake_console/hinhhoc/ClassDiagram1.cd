@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="hinhhoc.hinhhoc">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAQAAAAABAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>hinhhoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hinhhoc.doanthang">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIAAQAAAAABAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>doanthang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hinhhoc.tamgiac">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIQAQAAAAABAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>tamgiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hinhhoc.hinhtron">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAACIQAQAAAAABAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>hinhtron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hinhhoc.hinhvuong">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAACIQAQAAAAABAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>hinhvuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

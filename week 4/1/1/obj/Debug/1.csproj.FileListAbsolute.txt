@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\bin\Debug\1.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\bin\Debug\1.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\bin\Debug\1.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\obj\Debug\1.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\1\1\obj\Debug\1.pdb

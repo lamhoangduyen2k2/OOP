@@ -1,0 +1,10 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\bin\Debug\thuake_console.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\bin\Debug\thuake_console.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\bin\Debug\thuake_console.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\bin\Debug\hinhhoc.dll
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\bin\Debug\hinhhoc.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\obj\Debug\thuake_console.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\obj\Debug\thuake_console.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\obj\Debug\thuake_console.csproj.CopyComplete
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\obj\Debug\thuake_console.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\thuake_console\thuake_console\obj\Debug\thuake_console.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\bin\Debug\viduSGK.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\bin\Debug\viduSGK.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\bin\Debug\viduSGK.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\obj\Debug\viduSGK.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\obj\Debug\viduSGK.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\obj\Debug\viduSGK.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\viduSGK\viduSGK\obj\Debug\viduSGK.pdb

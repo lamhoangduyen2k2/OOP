@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Employees.Employee">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEAAAAAAAAAAAAAAAAAAAACAIAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.CommissionWorker">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAEAAACBQAAAgAIAAAA=</HashCode>
+      <FileName>CommissionWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.Boss">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAQAAAAAIAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.HourlyWorker">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAABCAAAAAgAAAIAAAA=</HashCode>
+      <FileName>HourlyWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.PieceWorker">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAACAAAACAAAAAgAoAAAA=</HashCode>
+      <FileName>PieceWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

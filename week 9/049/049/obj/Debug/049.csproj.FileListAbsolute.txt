@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\bin\Debug\049.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\bin\Debug\049.exe
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\bin\Debug\049.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\obj\Debug\049.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\obj\Debug\049.exe
+D:\Duyên\Lập trình hướng đối tượng\week 9\049\049\obj\Debug\049.pdb

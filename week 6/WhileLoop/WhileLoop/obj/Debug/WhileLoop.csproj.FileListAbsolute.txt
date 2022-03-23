@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

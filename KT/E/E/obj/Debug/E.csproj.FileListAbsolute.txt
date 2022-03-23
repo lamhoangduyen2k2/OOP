@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\bin\Debug\E.exe.config
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\bin\Debug\E.exe
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\bin\Debug\E.pdb
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\obj\Debug\E.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\obj\Debug\E.exe
+D:\Duyên\Lập trình hướng đối tượng\KT\E\E\obj\Debug\E.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\bin\Debug\D.exe.config
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\bin\Debug\D.exe
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\bin\Debug\D.pdb
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\obj\Debug\D.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\obj\Debug\D.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\obj\Debug\D.exe
+D:\Duyên\Lập trình hướng đối tượng\KT\D\D\obj\Debug\D.pdb

@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\bin\Debug\Exercise 3.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\obj\Debug\Exercise 3.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\obj\Debug\Exercise 3.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Exercise 3\Exercise 3\obj\Debug\Exercise 3.pdb

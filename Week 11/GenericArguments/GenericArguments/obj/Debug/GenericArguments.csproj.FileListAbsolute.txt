@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\bin\Debug\GenericArguments.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\bin\Debug\GenericArguments.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\bin\Debug\GenericArguments.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\obj\Debug\GenericArguments.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\obj\Debug\GenericArguments.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\obj\Debug\GenericArguments.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericArguments\GenericArguments\obj\Debug\GenericArguments.pdb

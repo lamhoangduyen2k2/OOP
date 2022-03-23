@@ -1,0 +1,10 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\bin\Debug\ReWritePoint.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\bin\Debug\ReWritePoint.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\bin\Debug\ReWritePoint.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\ReWritePoint\ReWritePoint\obj\Debug\ReWritePoint.pdb

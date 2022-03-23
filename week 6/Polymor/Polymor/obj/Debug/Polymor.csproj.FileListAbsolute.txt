@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\bin\Debug\Polymor.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\bin\Debug\Polymor.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\bin\Debug\Polymor.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\obj\Debug\Polymor.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\obj\Debug\Polymor.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\obj\Debug\Polymor.exe
+D:\Duyên\Lập trình hướng đối tượng\week 6\Polymor\Polymor\obj\Debug\Polymor.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Duyên\Lập trình hướng đối tượng\week 8\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

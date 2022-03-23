@@ -1,0 +1,10 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\bin\Debug\Caculator.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\bin\Debug\Caculator.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Caculator\Caculator\obj\Debug\Caculator.pdb

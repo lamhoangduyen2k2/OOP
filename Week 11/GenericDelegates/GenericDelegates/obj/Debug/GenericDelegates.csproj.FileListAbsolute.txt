@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\bin\Debug\GenericDelegates.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\bin\Debug\GenericDelegates.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\obj\Debug\GenericDelegates.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\obj\Debug\GenericDelegates.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\obj\Debug\GenericDelegates.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\GenericDelegates\GenericDelegates\obj\Debug\GenericDelegates.pdb

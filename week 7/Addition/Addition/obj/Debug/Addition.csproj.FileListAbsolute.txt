@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\bin\Debug\Addition.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\bin\Debug\Addition.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\bin\Debug\Addition.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\obj\Debug\Addition.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\obj\Debug\Addition.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\Addition\Addition\obj\Debug\Addition.pdb

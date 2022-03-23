@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\bin\Debug\Collection_Stack.exe.config
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\bin\Debug\Collection_Stack.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\bin\Debug\Collection_Stack.pdb
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\obj\Debug\Collection_Stack.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\obj\Debug\Collection_Stack.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\obj\Debug\Collection_Stack.exe
+D:\Duyên\Lập trình hướng đối tượng\Week 11\Collection_Stack\Collection_Stack\obj\Debug\Collection_Stack.pdb

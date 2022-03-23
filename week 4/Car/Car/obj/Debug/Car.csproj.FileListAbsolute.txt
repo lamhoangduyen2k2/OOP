@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\bin\Debug\Car.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\bin\Debug\Car.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\bin\Debug\Car.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\obj\Debug\Car.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Car\Car\obj\Debug\Car.pdb

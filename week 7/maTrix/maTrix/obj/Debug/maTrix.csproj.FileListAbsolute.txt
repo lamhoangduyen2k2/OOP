@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\bin\Debug\maTrix.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\bin\Debug\maTrix.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\bin\Debug\maTrix.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\obj\Debug\maTrix.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\obj\Debug\maTrix.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\obj\Debug\maTrix.exe
+D:\Duyên\Lập trình hướng đối tượng\week 7\maTrix\maTrix\obj\Debug\maTrix.pdb

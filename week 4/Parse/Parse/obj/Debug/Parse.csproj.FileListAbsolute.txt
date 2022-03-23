@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\bin\Debug\Parse.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\bin\Debug\Parse.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\bin\Debug\Parse.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\obj\Debug\Parse.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\obj\Debug\Parse.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\Parse\Parse\obj\Debug\Parse.pdb

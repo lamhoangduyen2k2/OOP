@@ -1,0 +1,6 @@
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\bin\Debug\121.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\bin\Debug\121.exe
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\bin\Debug\121.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\obj\Debug\121.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\obj\Debug\121.exe
+D:\Duyên\Lập trình hướng đối tượng\week 9\121\121\obj\Debug\121.pdb

@@ -1,0 +1,7 @@
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\bin\Debug\TryParse.exe.config
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\bin\Debug\TryParse.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\bin\Debug\TryParse.pdb
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\obj\Debug\TryParse.exe
+D:\Duyên\Lập trình hướng đối tượng\week 4\TryParse\TryParse\obj\Debug\TryParse.pdb
